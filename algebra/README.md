@@ -11,7 +11,7 @@ Podemos resolver este tipo de equação de várias maneiras, podendo ser muito e
  <img src="..\resources\algebra\find_x_value.png">
 
 ### Utilizando força bruta
-<hr>
+
 
 Dada a equação <i>2x + 5 = 13</i>. Precisamos encontrar o valor de <strong>x</strong>, que quando <i>multiplicado</i> por 2 e depois <i>somado</i> com 5, <strong>retorne 13</strong>.
 
@@ -35,4 +35,4 @@ Vemos que o valor que procuramos é <strong>4</strong>.
 >> x = 4
 
 
-    O que acontece neste caso é que procuramos o valor de x, em um conjunto de N valores, sendo neste caso TODOS os valores entre -100 e 100, o que nesse caso é algo rápido, mas dependendo da equação, pode exigir uma quantidade muito grande de processamento.
+O que acontece neste caso é que procuramos o valor de x, em um conjunto de N valores, sendo neste caso TODOS os valores entre -100 e 100, o que nesse caso é algo rápido, mas dependendo da equação, pode exigir uma quantidade muito grande de processamento.
